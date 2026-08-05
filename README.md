@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>"L'IA crée le squelette, le Bloc-notes lui donne une âme, le navigateur lui donne la vie."</em>
+  <em>"Le Bloc-notes et crée une âme, L'IA crée le squelette, le navigateur lui donne la vie."</em>
 </p>
 
 ---
